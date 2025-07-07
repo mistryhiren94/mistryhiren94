@@ -15,7 +15,6 @@
 - 📁 Built scalable systems for file upload, batch processing, job scheduling & cross-platform desktop apps
 - ⚙️ Familiar with DevOps basics: **Docker, GitHub Actions, CI/CD**
 - 💬 Ask me about **full-stack architecture**, **mobile/desktop hybrid apps**, or **backend optimization**
-- 📫 Reach me at **mistryhiren908@gmail.com**
 
 ---
 
