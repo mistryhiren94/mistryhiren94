@@ -7,10 +7,33 @@
 
 ---
 
+### 🚀 About Me
+
+- 🧠 7+ years of experience in full-stack development (MERN + React Native + Electron)
+- 👨‍💻 Skilled in **React.js, React Native, ElectronJS, Node.js, Express, MongoDB, TypeScript, JavaScript (ES6+)**
+- 💾 Experience with **MySQL, REST APIs, GraphQL, and TypeORM**
+- 📁 Built scalable systems for file upload, batch processing, job scheduling & cross-platform desktop apps
+- ⚙️ Familiar with DevOps basics: **Docker, GitHub Actions, CI/CD**
+- 💬 Ask me about **full-stack architecture**, **mobile/desktop hybrid apps**, or **backend optimization**
+- 📫 Reach me at **mistryhiren908@gmail.com**
+
+---
+
+### 🏆 Achievements & Highlights
+
+- 🚀 Developed and deployed robust MERN applications with 10K+ users
+- 📱 Created cross-platform mobile apps using React Native CLI
+- 💻 Built ElectronJS apps for internal desktop-based tools
+- 📊 Designed and optimized batch pipelines for large file processing
+- 🧪 Designed reusable React component libraries
+- 🛠 Developed systems saving hundreds of man-hours in business processes
+
+---
+
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,typescript,javascript,mysql,html,css,git,docker,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,electron,nodejs,express,mongodb,typescript,javascript,mysql,html,css,git,docker,graphql" />
 </p>
 
 ---
@@ -27,6 +50,7 @@
 ### 📫 Let's Connect
 
 - 💼 <a href="https://www.linkedin.com/in/hiren-mistry94/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 📫 <a href="mailto:mistryhiren94@gmail.com">mistryhiren94@gmail.com</a>
 
 ---
 
