@@ -26,7 +26,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/hiren-mistry94](https://www.linkedin.com/in/hiren-mistry-b89656125))
+- 💼 [LinkedIn](https://www.linkedin.com/in/hiren-mistry-b89656125)
 
 ---
 
