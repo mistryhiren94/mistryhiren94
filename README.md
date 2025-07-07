@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hiren Mistry</h1>
 <h3 align="center">A Passionate MERN Stack Developer | Full Stack Engineer | 7+ Years of Experience</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,mongodb,typescript,javascript,mysql,html,css,git,docker,graphql" />
-  <img src="https://raw.githubusercontent.com/react-native-community/react-native-elements/next-website/static/img/logo.png" alt="React Native" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+%2B+React+Native+%2B+ElectronJS;Backend+Expert+%7C+Node.js+%2B+Express;React+%7C+MongoDB+%7C+TypeScript;Always+Learning+%26+Building&center=true&width=800&height=45" alt="Typing SVG">
 </p>
 
 ---
@@ -33,8 +32,10 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,electron,nodejs,express,mongodb,typescript,javascript,mysql,html,css,git,docker,graphql" />
+  <img src="https://skillicons.dev/icons?i=react,electron,nodejs,express,mongodb,typescript,javascript,mysql,html,css,git,docker,graphql" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40" title="React Native" />
 </p>
+
 
 ---
 
