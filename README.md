@@ -39,6 +39,8 @@
 
 ---
 
+<!--
+
 ### 📈 GitHub Stats
 
 <p align="left">
@@ -47,6 +49,8 @@
 </p>
 
 ---
+
+-->
 
 ### 📫 Let's Connect
 
