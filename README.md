@@ -54,7 +54,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 <a href="https://www.linkedin.com/in/hiren-mistry94/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/hiren-mistry-b89656125/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 - 📫 <a href="mailto:mistryhiren94@gmail.com">mistryhiren94@gmail.com</a>
 
 ---
